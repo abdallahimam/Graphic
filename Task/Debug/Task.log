@@ -1,0 +1,6 @@
+﻿  Task.cpp
+c:\users\abdullah\documents\visual studio 2015\projects\task\task\task.cpp(160): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\abdullah\documents\visual studio 2015\projects\task\task\task.cpp(264): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\abdullah\documents\visual studio 2015\projects\task\task\task.cpp(265): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Task.vcxproj -> c:\users\abdullah\documents\visual studio 2015\Projects\Task\Debug\Task.exe
+  Task.vcxproj -> c:\users\abdullah\documents\visual studio 2015\Projects\Task\Debug\Task.pdb (Full PDB)
